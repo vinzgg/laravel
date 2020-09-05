@@ -1,0 +1,31 @@
+.navbar,
+.navbar-expand-md,
+.navbar-light,
+.shadow-sm,
+.navbar-app-layouts
+{
+    background-color: #33a8e5;
+}
+
+.container img
+{
+    margin-right: 10px;
+}
+
+.container .title
+{
+    font-family: "Lato", sans-serif;
+    font-weight: bolder;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 22px;
+}
+
+.text-auth
+{
+    font-family: "Calibri", sans-serif;
+    color: #ffffff;
+    text-decoration: none ;
+    display: inline;
+    font-size: 18px;
+}
